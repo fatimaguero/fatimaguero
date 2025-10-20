@@ -12,6 +12,10 @@ Bem vindos ao meu resposítório Github!
 <p align="center">‍- Fotógrafa de casamento e famílias há 12 anos, formada em Letras Português, Inglês e Literatura </p>
 <p align="center">- 🌱 Atualmente estou aprendendo Python</p>
 
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="gatinho teclando fofo" />
+
+
+
 
   
 <br>  
